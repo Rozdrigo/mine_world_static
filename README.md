@@ -1,70 +1,47 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# MINEWORLD
+ 
+Nesse projeto eu recriei a criação de mundo do Minecraft utilizando Javascript, Node.js, Three.js, Express, Jimp, Simplex-Noise e uma certa dose de criatividade.
+ 
+---
+ 
+### Sobre as bibliotecas e suas funções dentro da aplicação:
+ 
+🤢**SIMPLEX-NOISE:** É ela responsável pela geração do noise, utilizando ela que é possível montar uma matriz que em seguida é enviada para as demais bibliotecas.
+ 
+🖍️**JIMP:** Geração de imagem, é ela que recebe uma matriz e transforma em uma mapa, que é exibido na tela.
+ 
+⏹️**THREE.JS:** É uma biblioteca 3D, ela é responsável por renderizar tudo na tela praticamente.
+ 
+### Como você pode baixar e rodar o meu projeto:
+ 
+O projeto já conta com todas as dependências instaladas, basta baixar e rodar o comando npm start no seu terminal, que a aplicação já estará funcionando.
+ 
+### Tentativas de utilizar o noise:
+ 
+Na pasta noise do projeto você pode ver várias das tentativas, erros e acertos de utilizar as bibliotecas, algumas delas inclusive tentativas de construir o algoritmo eu mesmo.
+ 
+![15990asset.jpg](assets/15990asset.jpg)
+ 
+![1346asset.jpg](assets/1346asset.jpg)
+ 
+Imagens do processo de criação:
+ 
+![Aplicando o noise no 3D;](assets/Untitled.png)
+ 
+Aplicando o noise no 3D;
+ 
+![Adicionando Texturas;](assets/Untitled%201.png)
+ 
+Adicionando Texturas;
+ 
+![Projeto Atual](assets/Untitled%202.png)
+ 
+Projeto Atual
+ 
+![Projeto Atual](assets/Untitled%203.png)
+ 
+Projeto Atual
+ 
+### Considerações:
+ 
+O projeto é desenvolvido para o uso mobile, então caso queira utilizá-lo no computador basta utilizar a device toolbar do chrome ao apertar f12.
