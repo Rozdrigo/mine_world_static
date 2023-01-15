@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mine_world_static/static/css/main.c09f257b.css",
+    "main.js": "/mine_world_static/static/js/main.d1c2bc7e.js",
+    "static/media/Leaf.jpg": "/mine_world_static/static/media/Leaf.197c7df4ef42a43f50d5.jpg",
+    "static/media/GrassSide.jpg": "/mine_world_static/static/media/GrassSide.50ed02270e7b7eb2b362.jpg",
+    "static/media/ThreeBottom.jpg": "/mine_world_static/static/media/ThreeBottom.a15825a8516a4ffd819f.jpg",
+    "static/media/Water.jpg": "/mine_world_static/static/media/Water.fdae2b921b2c3b453daf.jpg",
+    "static/media/Sand.jpg": "/mine_world_static/static/media/Sand.d6bac0a375df1a87f565.jpg",
+    "static/media/GrassBottom.jpg": "/mine_world_static/static/media/GrassBottom.9a73e4306fba2986f7d1.jpg",
+    "static/media/ThreeSide.jpg": "/mine_world_static/static/media/ThreeSide.db620af8ed04d6b0ae7c.jpg",
+    "index.html": "/mine_world_static/index.html",
+    "main.c09f257b.css.map": "/mine_world_static/static/css/main.c09f257b.css.map",
+    "main.d1c2bc7e.js.map": "/mine_world_static/static/js/main.d1c2bc7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c09f257b.css",
+    "static/js/main.d1c2bc7e.js"
+  ]
+}
