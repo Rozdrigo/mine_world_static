@@ -1,3 +1,4 @@
+![Group 25 (1)](https://user-images.githubusercontent.com/60229463/233147414-2f636667-4283-48ba-b2ea-0224e1b41e5a.png)
 # MINEWORLD
  
 Nesse projeto eu recriei a criação de mundo do Minecraft utilizando Javascript, Node.js, Three.js, Express, Jimp, Simplex-Noise e uma certa dose de criatividade.
@@ -21,26 +22,6 @@ O projeto já conta com todas as dependências instaladas, basta baixar e rodar 
 Na pasta noise do projeto você pode ver várias das tentativas, erros e acertos de utilizar as bibliotecas, algumas delas inclusive tentativas de construir o algoritmo eu mesmo.
  
 ![15990asset.jpg](assets/15990asset.jpg)
- 
-![1346asset.jpg](assets/1346asset.jpg)
- 
-Imagens do processo de criação:
- 
-![Aplicando o noise no 3D;](assets/Untitled.png)
- 
-Aplicando o noise no 3D;
- 
-![Adicionando Texturas;](assets/Untitled%201.png)
- 
-Adicionando Texturas;
- 
-![Projeto Atual](assets/Untitled%202.png)
- 
-Projeto Atual
- 
-![Projeto Atual](assets/Untitled%203.png)
- 
-Projeto Atual
  
 ### Considerações:
  
